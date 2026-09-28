@@ -29,3 +29,32 @@ Entrepreneurship and business,
 Learning about different cultures,
 Content creation,
 
+PROJECTS:
+Sure. Here is the updated **Projects** section without the 2D Graphics Editor:
+
+### Projects
+
+1. **FireGuard AI – Automated Fire Fighting System**
+
+   * IoT-based system for detecting fire and responding automatically.
+   * Uses sensors and microcontroller-based components for real-time monitoring.
+   * Focuses on improving safety through automated fire detection and response.
+
+2. **Cybercrime Report Management System**
+
+   * System for registering cybercrime complaints and tracking cases.
+   * Includes authentication, evidence upload, case tracking, notifications, and dashboard management.
+   * Focuses on secure and organized cybercrime reporting.
+
+3. **AgriVision AI – Smart Crop Protection System**
+
+   * AI-based solution for detecting crop diseases.
+   * Helps farmers identify crop problems and receive suitable guidance.
+   * Combines **AI, agriculture, and mobile technology** to support farmers.
+
+4. **Personal Portfolio Website**
+
+   * Responsive website showcasing skills, projects, certifications, and contact information.
+   * Built using modern web technologies.
+   * Deployed using GitHub Pages.
+
