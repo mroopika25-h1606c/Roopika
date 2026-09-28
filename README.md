@@ -16,16 +16,16 @@ My technical skills include **Python, C, Advanced C, Data Structures and Algorit
 
 I’m continuously improving my technical and communication skills through projects, coding practice, certifications, and hackathons. My goal is to build innovative technology solutions and eventually become an entrepreneur.
 
-INTEREST
-Traveling and exploring new places
-Photography
-Music
-Reading
-Drawing and creative design
-Public speaking
-Event management
-Social activities and volunteering
-Entrepreneurship and business
-Learning about different cultures
-Content creation
+INTEREST:
+Traveling and exploring new places,
+Photography,
+Music,
+Reading,
+Drawing and creative design,
+Public speaking,
+Event management,
+Social activities and volunteering,
+Entrepreneurship and business,
+Learning about different cultures,
+Content creation,
 
